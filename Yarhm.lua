@@ -1,2 +1,1 @@
-loadstring(game:HttpGet('https://cdn.sourceb.in/bins/J7ELYFtkEc/0'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Waguriiiii/Murder-mystery-2/refs/heads/main/Waguri.lua"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjkzYjZkNDQ5LTcwZWEtNDMzNi05N2JhLWI4ZWI5Nzk2OGJhNCIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMnN1bW1lcmV2ZW50In19"))()
